@@ -51,13 +51,14 @@ Had got no business to be there.
 "It's very rude of him," she said,    
       "To come and spoil the fun."    
 
-
-
-
-
-
-
-
-
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+Mean, median, and mode, they form a trio,     
+Describing data's center, in a way so clear, though.    
+Standard deviation, it measures the spread,    
+Uncertainty's realm, where predictions are bred.    
+
+In regression's embrace, we seek to explain,    
+The relationships hidden in the data's domain.    
+Hypotheses tested, conclusions are drawn,    
+In the realm of statistics, knowledge is dawned.    
